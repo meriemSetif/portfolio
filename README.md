@@ -5,7 +5,7 @@ Ce site présente mon profil, mes compétences techniques, mes projets, ainsi qu
 
 ## 🔗 Accès au site
 
-👉 [Voir le site en ligne](https://meriemSetif.github.io/portfolio/) 
+👉 [Voir le site en ligne](https://meriemsetif.github.io/portfolio/) 
 
 ## 🧠 À propos
 
