@@ -5,7 +5,7 @@ Ce site présente mon profil, mes compétences techniques, mes projets, ainsi qu
 
 ## 🔗 Accès au site
 
-👉 [Voir le site en ligne](https://meriemSetif.github.io/portfolio/) *(si hébergé via GitHub Pages)*
+👉 [Voir le site en ligne](https://meriemSetif.github.io/portfolio/) 
 
 ## 🧠 À propos
 
@@ -37,7 +37,7 @@ portfolio/
 
 ## 📷 Aperçu
 
-![Capture d’écran du portfolio](./realestate_website.png)
+![Capture d’écran du portfolio](./porfolio_website.png)
 
 ## 📄 Fonctionnalités
 
@@ -51,10 +51,10 @@ portfolio/
 
 Pour toute collaboration, offre ou échange professionnel :
 
-- **Email** : [votre.email@example.com]
-- **LinkedIn** : [linkedin.com/in/meriemBenZekka](https://linkedin.com/in/votre-lien)
+- **Email** : [meriem.benzeka@example.com]
+- **LinkedIn*:benzeka meriem nourelhouda
 - **GitHub** : [github.com/meriemSetif](https://github.com/meriemSetif)
 
 ---
 
-© 2025 — Meriem Ben Zekka Nour El Houda. Tous droits réservés.
+© 2025 — Meriem BenZekka Nour El Houda. Tous droits réservés.
