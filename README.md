@@ -35,9 +35,7 @@ portfolio/
 ├── *.png # Captures projets
 └── README.mm
 
-## 📷 Aperçu
 
-![Capture d’écran du portfolio](./porfolio_website.png)
 
 ## 📄 Fonctionnalités
 
